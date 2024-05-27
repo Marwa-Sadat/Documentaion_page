@@ -58,7 +58,7 @@ body {
   padding: 20px;
   background-color: #270a1a;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(88, 81, 5, 0.1);
+  box-shadow: 0 0 10px rgba(98, 90, 6, 0.1);
 }
 
 .main-section header h2 {
@@ -72,7 +72,7 @@ body {
 
 .main-section code {
   display: block;
-  background-color: #28e80afd;
+  background-color: #35da1cfd;
   padding: 10px;
   border-radius: 5px;
   margin: 10px 0;
