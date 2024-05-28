@@ -98,25 +98,25 @@ body {
 }
 
 @media (max-width: 768px) {
-    #navbar {
-        width: 100%;
-        height: auto;
-        position: relative;
-    }
+  #navbar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
 
-    #navbar ul {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
+  #navbar ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 
-    #navbar ul li {
-        margin: 10px 15px;
-    }
+  #navbar ul li {
+    margin: 10px 15px;
+  }
 
-    #main-doc {
-        margin-left: 0;
-        width: 100%;
-        padding: 10px;
-    }
+  #main-doc {
+    margin-left: 0;
+    width: 100%;
+    padding: 10px;
+  }
 }
